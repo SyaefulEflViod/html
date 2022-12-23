@@ -1,3 +1,4 @@
 Rencana membuat website
 
 Pertama membuat web fortopolio
+lalu belajar JavaScript
